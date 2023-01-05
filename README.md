@@ -9,10 +9,14 @@ Project for "Computational Geometry &amp; 3D Modeling Applications" class
 5. Perform collision detection and estimate the direction and magnitude of the collision response force
 6. Neural approach to extract the SDF using the [SIREN](https://github.com/vsitzmann/siren) and perform collision detection using that SDF
 
+## Approach for generating the SDF
+The SDF was implemend as 3D-Matrix and every element of it contains the distance from the nearest vertx. To perform this task very efficient, KD-Trees is utilised.
+
 ## Results 
 The SDFs plotted with the help of Matlab <br />
 ![armadilo_SDF](Code/SDF_plot/Demos/armadillo.gif)
-![unicorn_SDF](Code/SDF_plot/Demos/unicorn.gif)
+![unicorn_SDF](Code/SDF_plot/Demos/unicorn.gif) <br />
+More [here](documentation/ΑΝΑΦΟΡΑ.pdf)
 
-### Dependencies
+## Dependencies
 VVR_Framework (created by [VVR](https://www.vvr.ece.upatras.gr/))
