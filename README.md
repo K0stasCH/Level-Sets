@@ -10,7 +10,7 @@ Project for "Computational Geometry &amp; 3D Modeling Applications" class
 6. Neural approach to extract the SDF using the [SIREN](https://github.com/vsitzmann/siren) and perform collision detection using that SDF
 
 ## Approach for generating the SDF
-The SDF was implemend as 3D-Matrix and every element of it contains the distance from the nearest vertx. To perform this task very efficient, KD-Trees is utilised.
+The SDF was implemend as 3D-Matrix and every element of it contains the distance from the nearest vertex. To perform this task very efficient, KD-Trees is utilised.
 
 ## Results 
 The SDFs plotted with the help of Matlab <br />
