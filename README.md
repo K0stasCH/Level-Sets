@@ -15,4 +15,4 @@ The SDFs plotted with the help of Matlab <br />
 ![unicorn_SDF](Code/SDF_plot/Demos/unicorn.gif)
 
 ### Dependencies
-VVR_Framework
+VVR_Framework (created by [VVR](https://www.vvr.ece.upatras.gr/))
