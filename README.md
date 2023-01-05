@@ -14,5 +14,5 @@ The SDFs plotted with the help of Matlab <br />
 ![armadilo_SDF](Code/SDF_plot/Demos/armadillo.gif)
 ![unicorn_SDF](Code/SDF_plot/Demos/unicorn.gif)
 
-### Depedanceis
+### Dependencies
 VVR_Framework
